@@ -29,8 +29,9 @@ author:
   bio              : "PhD Student"
   location         : #"Earth"
   employer         : "Aalto University"
+  contact          : "hung.h.le@aalto.fi"
   uri              : # URL
-  email            : "hung.h.le@aalto.fi" 
+  email            : "mailto:hung.h.le@aalto.fi" 
 
   # Academic websites
   academia         : # URL
