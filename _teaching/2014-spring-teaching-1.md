@@ -4,7 +4,7 @@ collection: teaching
 type: "Ph.D. level"
 permalink: /teaching/2014-spring-teaching-1
 #venue: "Aalto University"
-date: "Aug 2024, Aug 2025"
+#date: "Aug 2024, Aug 2025"
 #location: "City, Country"
 ---
 
