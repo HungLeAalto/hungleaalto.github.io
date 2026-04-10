@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at Aalto University. I work on industrial organization, focusing on pharmaceutical markets and collusion.
+I am a PhD student in Economics at Aalto University. My research is in industrial organization, with a focus on collusion and pharmaceutical markets.
 
 **I will be on the 2026/2027 job market.**
 
 ## Job market paper
-**Quarterly Internal Reference Pricing and its Impact in the Finnish Pharmaceutical Market** *with Matias Pousi*
+**Tacit Collusion in the Finnish Pharmaceutical Market** *with Matias Pousi*
 <details>
   <summary>Show Abstract</summary>
 We study how markets and regulation function in the Finnish pharmaceutical market. Under the Medicines Act, pharmacies must substitute a prescribed medicine with the cheapest generally available substitutable product, or with a product priced at most €0.50 above the cheapest. By evaluating the performance of existing policies and exploring hypothetical policy interventions, we aim to understand the interplay between competition and various regulatory frameworks, including consumer choice policies and the public reimbursement scheme. In addition, we plan to assess how the benefits of these policies are distributed. The results can inform regulatory decision-making in Finland and other countries with similar pharmaceutical market or reimbursement regulations on competition, public expenditure and inequality issues.
